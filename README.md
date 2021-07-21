@@ -42,7 +42,7 @@
 * 1 years experience in Mobile/Full-stack development.
 * #### Technical Skills
     * Expertise in React, Redux, Wordpress CMS. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.
-    * Skilled in Visual Force, Lightning pages (Pages, Component & Controllers), ES6.
+    * Skilled in Visual Force, Lightning pages (Pages, Component & Controllers), PHP, ES6.
 
 * #### Soft Skills
     * Skilled in Reasearch and learn new technology.
