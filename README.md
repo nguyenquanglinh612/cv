@@ -14,6 +14,7 @@
 	* Jira
 
 * #### Front End
+	* ReactJs, NextJs, Redux Thunk, Styled Component	
 	* JavaScript, ES6, HTML5, CSS3
 	* Saleforce, LWC, Vlocity
 	* Bootstrap, SASS, Responsive
