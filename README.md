@@ -31,7 +31,7 @@
 
 ## Summary
 
-* 2.5 years experience in Quaility Assurance.
+* #### 2.5 years experience in Quaility Assurance.
 * #### Technical Skills
     * Expertise in create test cases, testing and report results, log bugs.
     * Skilled in Selenium, Cobol Testing.
@@ -40,7 +40,7 @@
     * Skilled in communication, presentation, active listening and constructive feedback.
     * Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.
 
-* 1 years experience in Mobile/Full-stack development.
+* #### 1 years experience in Mobile/Full-stack development.
 * #### Technical Skills
     * Expertise in React, Redux, Wordpress CMS. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.
     * Skilled in Visual Force, Lightning pages (Pages, Component & Controllers), PHP, ES6.
