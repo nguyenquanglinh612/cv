@@ -53,7 +53,7 @@
 ## Experience
 
 ### *Mobile/Full-stack Developer | Metta Depth LLC*, `MAR 2020 - Present`
-- [x] Created an e-commerce website and an associate cross-platform app using `Wordpress CMS`, `React Native`.
+- [x] Created an e-commerce website and an associate cross-platform app using `Wordpress CMS`, `React Native`, `ReactJs`, `NextJs`, `Styled Component`.
 - [x] Created an web about the environment, we design responsible digital strategies, solutions and ecosystems: Ethical, Local, and Ecological, to initiate a more positive impact on society and the environment. using `Wordpress CMS`.
 - [x] Responsible on production app performance. Resolved website performance issues.
 - [x] Builded a listing management website using `Vlocity` , `LWC`.
