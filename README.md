@@ -1,6 +1,6 @@
 ## Nguyen Quang Linh
 
-* Senior Quality Control / Junior full-stack developer at `Metta Depth LLC`
+* Senior Quality Control / full-stack developer at `Metta Depth LLC`
 * Working experience in Vietnam.
 * Email: [nguyenquanglinh612@gmail.com](mailto:nguyenquanglinh612@gmail.com)
 * Phone: [+84365684487](tel:+84365684487)
