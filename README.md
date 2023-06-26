@@ -14,7 +14,7 @@
 	* Jira
 
 * #### Front End
-	* ReactJs, NextJs, Redux Thunk, Styled Component	
+	* ReactJs, NextJs, Redux Saga, Redux Toolkit, Typescript, Styled Component	
 	* JavaScript, ES6, HTML5, CSS3
 	* Saleforce, LWC, Vlocity
 	* Bootstrap, SASS, Responsive
@@ -40,7 +40,7 @@
     * Skilled in communication, presentation, active listening and constructive feedback.
     * Self-motivated and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.
 
-* #### 1 years experience in Mobile/Full-stack development.
+* #### 3 years experience in Mobile/Full-stack development.
 * #### Technical Skills
     * Expertise in React, Redux, Wordpress CMS. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory.
     * Skilled in Visual Force, Lightning pages (Pages, Component & Controllers), PHP, ES6.
@@ -52,7 +52,12 @@
 
 ## Experience
 
-### *Mobile/Full-stack Developer | Metta Depth LLC*, `MAR 2020 - Present`
+### *Frontend Developer | NAL solution LLC*, `Oct 2021 - Present`
+- [x] Created an e-commerce multitenant website and CMS using `ReactJs`, `NextJs`,`Redux Saga`, `Typescript`, `Styled Component`.
+- [x] Created a website for government using `ReactJs`, `NextJs`, `Redux Toolkit`, `Typescript`, `Styled Component`.
+- [x] Responsible on production app performance. Resolved website performance issues.
+
+### *Mobile/Full-stack Developer | Metta Depth LLC*, `MAR 2020 - Oct 2021`
 - [x] Created an e-commerce website and an associate cross-platform app using `Wordpress CMS`, `React Native`, `ReactJs`, `NextJs`, `Styled Component`.
 - [x] Created an web about the environment, we design responsible digital strategies, solutions and ecosystems: Ethical, Local, and Ecological, to initiate a more positive impact on society and the environment. using `Wordpress CMS`.
 - [x] Responsible on production app performance. Resolved website performance issues.
