@@ -55,6 +55,7 @@
 ### *Frontend Developer | NAL solution LLC*, `Oct 2021 - Present`
 - [x] Created an e-commerce multitenant website and CMS using `ReactJs`, `NextJs`,`Redux Saga`, `Typescript`, `Styled Component`.
 - [x] Created a website for government using `ReactJs`, `NextJs`, `Redux Toolkit`, `Typescript`, `Styled Component`.
+- [x] Created a website for picture editor using `ReactJs`, `NextJs`, `Redux Saga`, `Typescript`, `Canvas`, `FabricJs`.
 - [x] Responsible on production app performance. Resolved website performance issues.
 
 ### *Mobile/Full-stack Developer | Metta Depth LLC*, `MAR 2020 - Oct 2021`
